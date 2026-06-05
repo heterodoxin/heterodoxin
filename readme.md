@@ -4,6 +4,12 @@
 
 <br>
 
+<a href="https://discord.gg/JR6hMmJNuB">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&labelColor=000000" alt="Discord">
+</a>
+
+<br>
+
 <a href="https://github.com/heterodoxin/apostate">
   <img src="https://img.shields.io/badge/Apostate-000000?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=000000" alt="Apostate">
 </a>
